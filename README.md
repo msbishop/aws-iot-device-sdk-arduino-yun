@@ -362,7 +362,7 @@ NONE\_ERROR if the shadow delta topic is successfully unsubscribed and the callb
 	#define AWS_IOT_PRIVATE_KEY_FILENAME "privkey.pem"              // your private key filename
 	//===============================================================
 
-**These settings can be downloaded from the AWS IoT console after you created a device and licked on "Connect a device".**  	
+**These settings can be downloaded from the AWS IoT console after you created a device and clicked on "Connect a device".**  	
 
 **Make sure you have included the AWS-IoT-Arduino-Yún-SDK library:**
 
